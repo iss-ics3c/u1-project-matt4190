@@ -3,13 +3,18 @@ body{
     place-content: center;
     height: 95vh;
 }
-
+#page{
+    background-color:  pink;
+}
 #title{
     text-align: center;
     padding: 8px;
     margin: auto;
     width: 50%;
+    font-family: 'Mochiy Pop One', sans-serif;
 }
+
+
 #paragraph1{
     
 }
